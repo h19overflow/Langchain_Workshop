@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Claude Code
+.claude/
+
+# Bonus materials
+materials/bonus.ipynb
