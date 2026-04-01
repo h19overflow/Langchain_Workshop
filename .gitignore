@@ -16,3 +16,4 @@ wheels/
 # Bonus materials
 materials/bonus.ipynb
 materials/presenter_script.md
+.omc/*
