@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775051896358,
+  "projectRoot": "C:\\Users\\User\\Projects\\Langchain_Workshop",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "materials": {
+      "path": "materials",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1775051896328,
+      "keyFiles": [
+        "bonus.ipynb",
+        "prerequisties.md",
+        "workshop.ipynb"
+      ]
+    },
+    "venv": {
+      "path": "venv",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1775051896329,
+      "keyFiles": [
+        "pyvenv.cfg"
+      ]
+    },
+    "venv\\Lib": {
+      "path": "venv\\Lib",
+      "purpose": "Library code",
+      "fileCount": 0,
+      "lastAccessed": 1775051896329,
+      "keyFiles": []
+    },
+    "venv\\Scripts": {
+      "path": "venv\\Scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 65,
+      "lastAccessed": 1775051896330,
+      "keyFiles": [
+        "activate",
+        "activate.bat",
+        "activate.fish"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "materials\\presenter_script.md",
+      "accessCount": 2,
+      "lastAccessed": 1775052563771,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
